@@ -1,2 +1,2 @@
-# simplesnake
-Simplified Snake Game
+# Snake
+Simplified snake game using html!
